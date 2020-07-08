@@ -16,9 +16,6 @@ header{
 .header_buttom_left h6, h1, p{
     padding-bottom: 20px;
 }
-.header_buttom_left {
-    
-}
 .header_buttom_h1{
     color: #21B573;
 }
@@ -91,9 +88,6 @@ footer{
     color: white;
     padding-top: 30px;
     padding-bottom:10px;
-}
-.footer_all_subject ul {
-
 }
 .footer_all_subject ul li {
     list-style: none;

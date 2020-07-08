@@ -1,0 +1,90 @@
+header{
+    background-color: #F0FFF0;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.header_logo img{
+    max-width: 198px;
+}
+.illustration_img{
+    width: 100%;
+}
+.header_buttom{
+    padding-top: 80px;
+}
+.start_btn{
+    background-color: #21B573;
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: white;
+}
+.header_buttom_left h6{
+    color: #FD511A;
+}
+.header_buttom_left h1{
+    font-weight: bold;
+}
+.header_buttom_left p{
+    color: #6C6B6B;
+}
+.group_card{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.col-container {
+    display: flex;
+    width: 100%;
+  }
+  .col {
+    flex: 1;
+    padding: 16px;
+  }
+.gp_card{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: #F8FFFB;
+}
+.gp_card img{
+    width: 80px;
+    height: auto;
+    margin: 0 auto;
+}
+.online_h1{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.date_people{
+    padding-top: 30px;
+}
+.date_people p{
+    font-size: 13px;
+}
+.date img{
+    width: 25px;
+}
+.people img{
+    width: 25px;
+}
+.Testimonial{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.test_img{
+    width: 100px;
+    float: inline-end;
+}
+footer{
+    background-color: #282531;
+    color: white;
+    padding-top: 30px;
+    padding-bottom:10px;
+}
+.footer_all_subject ul {
+    
+}
+.footer_all_subject ul li {
+    list-style: none;
+}
+.footer-bottom{
+    padding-top: 30px;
+}

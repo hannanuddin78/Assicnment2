@@ -12,6 +12,9 @@ header{
 .header_buttom{
     padding-top: 80px;
 }
+.header_buttom_h1{
+    color: #21B573;
+}
 .start_btn{
     background-color: #21B573;
     padding: 10px 30px;
@@ -52,6 +55,9 @@ header{
 .online_h1{
     padding-top: 20px;
     padding-bottom: 50px;
+}
+.card{
+    padding: 15px;
 }
 .date_people{
     padding-top: 30px;

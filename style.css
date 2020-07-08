@@ -7,10 +7,17 @@ header{
     max-width: 198px;
 }
 .illustration_img{
-    width: 100%;
+   max-width: 100%;
+   height: auto;
 }
 .header_buttom{
     padding-top: 80px;
+}
+.header_buttom_left h6, h1, p{
+    padding-bottom: 20px;
+}
+.header_buttom_left {
+    
 }
 .header_buttom_h1{
     color: #21B573;
@@ -20,6 +27,7 @@ header{
     padding: 10px 30px;
     border-radius: 20px;
     color: white;
+    border: none;
 }
 .header_buttom_left h6{
     color: #FD511A;
@@ -63,7 +71,7 @@ header{
     padding-top: 30px;
 }
 .date_people p{
-    font-size: 13px;
+    font-size: 12px;
 }
 .date img{
     width: 25px;
